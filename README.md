@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning to work with git and github.
 - 💞️ I’m looking to collaborate on 
-- 📫 You can reach me on seemasouza08@gmail.com.
+- 📫 You can reach me on seemadsouza.work@gmail.com
 
 <!---
 SeemaDSouza827/SeemaDSouza827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
